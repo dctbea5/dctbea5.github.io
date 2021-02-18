@@ -1,13 +1,13 @@
 # Site settings
-title: JIYEON's RECORD
+title: JiYeon's RECORD
 description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: JIYEON's RECORD
+username: JiYeon's RECORD
 user_description: I\'m a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT. I'm one of the two guys behind all the JS related stuff.
-user_title: Note
+user_title: Do My Best, Day By Day
 email: crystals1357@naver.com
 # twitter_username: lorem_ipsum
 # github_username:  lorem_ipsum
