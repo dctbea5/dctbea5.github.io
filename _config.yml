@@ -5,7 +5,7 @@ url: "https://dctbea5.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 title: KIM JI YEON                                   # site's title
 description: "A website with blog posts and pages"      # used by search engines
-avatar: assets/img/jyimg.png                         # Empty for no avatar in navbar
+avatar: assets/img/jyimg_.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
