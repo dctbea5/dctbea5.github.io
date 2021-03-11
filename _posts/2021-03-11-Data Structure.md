@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Generate a table of content
-tags: [toc.js, kramdown, Markdown, Customization]
+title: 자료구조
+tags: [data structure]
 author: sylhare
 excerpt_separator: <!--more-->
 ---
 
-# Using Kramdown GFM <!--more-->
+# 곧 포스팅 할 예정입니다. <!--more-->
 
 <!-- To be placed at the beginning of the post, it is where the table of content will be generated -->
 * TOC
