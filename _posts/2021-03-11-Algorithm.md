@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Tech Stuff example
+title: Algorithm
 feature-img: "assets/img/feature-img/circuit.jpeg"
 thumbnail: "assets/img/thumbnails/feature-img/circuit.jpeg"
 tags: [Algorithm]
 ---
 
 
-Because if you put some code in your blog, you would at least make it:
+알고리즘 리뷰:
 
 1. Bubble Sort
 2. selection sort
