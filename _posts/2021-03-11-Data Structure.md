@@ -2,7 +2,6 @@
 layout: post
 title: 자료구조
 tags: [data structure]
-author: sylhare
 excerpt_separator: <!--more-->
 ---
 
